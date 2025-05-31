@@ -1,0 +1,3 @@
+[submodule "ryvahcommerce"]
+	path = ryvahcommerce
+	url = https://github.com/SamwelKaranjaN/ryvahcommerce.git
